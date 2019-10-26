@@ -1,0 +1,17 @@
+Name: Ibrahim George 
+Student ID: 18970601
+
+how to run porgram:
+open up eclipse and press the "run" button or "F11".
+
+Requirements have been implemented:
+1. gui looks nice and has image
+2. enlists all choices with ordering on type of sandwich
+3. there is a componenet count
+4. shows price of each sandwich and the total price of the order made. the are both selection not inputted.
+5. the price is calcualted based on the choices and count.
+6. there is a clear order button which clears all the selctions made.
+7. the is an order button that opens up a dialog box show all the options selected by user.
+
+Requirements that have not been implemented:
+1. selecting multiple ingrediants.
